@@ -177,15 +177,15 @@
     },
     {
       "name": "device_info",
-      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-1.0.0",
+      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "device_info_platform_interface",
-      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_platform_interface-1.0.1",
+      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_platform_interface-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.7"
+      "languageVersion": "2.12"
     },
     {
       "name": "encrypt",
@@ -632,7 +632,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-05-02T16:07:17.433284Z",
+  "generated": "2021-05-02T16:09:33.478769Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }
