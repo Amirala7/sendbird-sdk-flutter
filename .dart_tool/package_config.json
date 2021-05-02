@@ -129,27 +129,27 @@
     },
     {
       "name": "connectivity",
-      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-2.0.2",
+      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.3",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "connectivity_for_web",
-      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.3.1+4",
+      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.6"
+      "languageVersion": "2.12"
     },
     {
       "name": "connectivity_macos",
-      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.1.0+7",
+      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "connectivity_platform_interface",
-      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_platform_interface-1.0.6",
+      "rootUri": "file:///Users/amirala7/Development/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_platform_interface-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "convert",
@@ -632,7 +632,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-05-02T16:15:51.486254Z",
+  "generated": "2021-05-02T16:26:39.023932Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }
